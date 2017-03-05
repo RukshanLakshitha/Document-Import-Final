@@ -2,7 +2,7 @@
   "name": "document_import_final",
   "version": "1.0.0",
   "description": "This is the final version of document import with electron and react",
-  "main": "index.js",
+  "main": ".app/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
