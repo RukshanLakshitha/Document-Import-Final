@@ -1,0 +1,37 @@
+{
+  "name": "document_import_final",
+  "version": "1.0.0",
+  "description": "This is the final version of document import with electron and react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RukshanLakshitha/Document-Import-Final.git"
+  },
+  "author": "Rukshan Dangalla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RukshanLakshitha/Document-Import-Final/issues"
+  },
+  "devDependencies": {
+    "electron": "^1.4.15",
+    "electron-packager": "^8.5.1",
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-react": "^3.1.0",
+    "gulp-run": "^1.7.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "reactify": "^1.1.1"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "electron-reload": "^1.1.0",
+    "jquery": "^3.1.1",
+    "lodash": "^4.17.4"
+  },
+  "homepage": "https://github.com/RukshanLakshitha/Document-Import-Final#readme"
+}
