@@ -9,7 +9,7 @@ app.on('ready', function(){
     });
 
     appWindow.loadURL('file://' + __dirname + '/index.html');
-    appWindow.setMenu(null);
+    //appWindow.setMenu(null);
 
     appWindow.once('ready-to-show', function(){
         appWindow.show();
